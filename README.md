@@ -6,7 +6,8 @@ une balle devant se rendre d'un point A à un point B (matérialisé par un socl
 
 ## Choix technologique
 
-Pour réaliser ce projet libre pour la LP DAM, il nous était demandé d'utiliser une des technologies suivantes :
+Pour réaliser ce projet libre pour la LP DAM, il nous était demandé d'utiliser une des technologies suivantes
+
 	*	PWA (Progressive Web Apps)
 	*	Ionic
 	*	Xamarin
@@ -16,7 +17,7 @@ Mon choix s'est donc porté sur le logiciel Unity3D. J'ai choisi cette technolog
 
 ## Point(s) technique(s) approfondi(s) niveau développement
 
-Pour la réalisation du projet, j'ai utilisé plusieurs autres logiciels que Unity3D. VOici la liste exhaustive des logiciels :
+Pour la réalisation du projet, j'ai utilisé plusieurs autres logiciels que Unity3D. VOici la liste exhaustive des logiciels
 
 	*	Photoshop portable
 	*	Autodesk 3ds max 2017 (version étudiante)
@@ -30,7 +31,7 @@ pour la rédaction des différents scripts en C# permettant la gestion et le fon
 Pour la plateforme Android :
 
 ```
-[Télécharger l'apk ici](https://lucasabadie.fr/apk/TechMobileRollerBall.apk)
+[Telecharger apk ici](https://lucasabadie.fr/apk/TechMobileRollerBall.apk)
 ```
 
 Et pour la plateforme Windows (en x84_x64), il se trouve dans le dossier.
